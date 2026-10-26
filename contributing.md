@@ -219,7 +219,7 @@ That avoids spending an hour on a batch that had the wrong settings.
 
 > 🧭 **Editor's note:** everything above is tested on the current 2026 build. If a step looks different on your machine, open an issue.
 
-*offline-audio-enhancer · Updated 2026-10-25 · Shared under the MIT License*
+*offline-audio-enhancer · Updated 2026-10-26 · Shared under the MIT License*
 
 
-Updated 2026-10-25.
+Updated 2026-10-26.
